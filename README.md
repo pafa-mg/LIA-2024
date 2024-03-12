@@ -67,11 +67,7 @@ The Partille office is our headquarters, but we have offices in Spain, Colombia 
 If this sounds like a place you would like to work at, or you think would benefit you in the final leg of your studies, please follow the application instructions below.
 
 1. Read through this introduction to MobilityGuard and our products (congrats, you did it!).
-2. Add me, Patrik Fallqvist Magnusson, on LinkedIn and say Hi! 
-<p align="center">
-  <img alt="Patrik LinkedIn QR code" src="https://github.com/pafa-mg/LIA-2024/assets/145539356/bde56b0b-37a0-494b-9262-bf834320115e" width="400" >
-</p>
-
+2. Add me, Patrik Fallqvist Magnusson, on LinkedIn and say Hi! https://www.linkedin.com/in/patrik-fallqvist/
 3. Clone this repository and create a branch with a name following this pattern: `firstname-lastname-class`, for example `patrik-fallqvist-java21`.
 4. Add a Markdown file in the root of the project following the same pattern, with the `.md` suffix, for example `patrik-fallqvist-java21.md`.
 5. Commit the file to the branch.
