@@ -67,14 +67,16 @@ The Partille office is our headquarters, but we have offices in Spain, Colombia 
 If this sounds like a place you would like to work at, or you think would benefit you in the final leg of your studies, please follow the application instructions below.
 
 1. Read through this introduction to MobilityGuard and our products (congrats, you did it!).
-2. Add me, Patrik Fallqvist Magnusson, on LinkedIn and say Hi! https://www.linkedin.com/in/patrik-fallqvist/
-3. Clone this repository and create a branch with a name following this pattern: `firstname-lastname-class`, for example `patrik-fallqvist-java21`.
-4. Add a Markdown file in the root of the project following the same pattern, with the `.md` suffix, for example `patrik-fallqvist-java21.md`.
-5. Commit the file to the branch.
-6. Use the Markdown file you made to write a personal letter, telling us a bit about yourself, your goals and why you think MobilityGuard is a good fit for you. Feel free to have fun with the markdown language, add some images or such if you want. (Can be written in Swedish if you prefer).
-7. Add a link to the GitHub repository you are most proud off, tell us what it is and why you think this reflects your work the best. (Might not apply to IT Project leaders, perhaps you have a portfolio or similar you want to share instead?).
-8. Add your CV, and/or a link to your LinkedIn, and your email address.
-9. Add any other information or links you think could be of interest to us.
-10. Commit the file again once you're done.
-11. Create a Pull Request to this repository using your branch.
-12. We will review the pull request and contact you through your email or LinkedIn.
+2. Add me, Patrik Fallqvist Magnusson, on LinkedIn and say `Hi! I'm interested in the internship!` https://www.linkedin.com/in/patrik-fallqvist/
+3. When you have said `Hi!` on LinkedIn I will invite you as a collaborator to this repo
+4. Accept the invite
+5. Clone this repository and create a branch with a name following this pattern: `firstname-lastname-class`, for example `patrik-fallqvist-java21`.
+6. Add a Markdown file in the root of the project following the same pattern, with the `.md` suffix, for example `patrik-fallqvist-java21.md`.
+7. Commit the file to the branch.
+8. Use the Markdown file you made to write a personal letter, telling us a bit about yourself, your goals and why you think MobilityGuard is a good fit for you. Feel free to have fun with the markdown language, add some images or such if you want. (Can be written in Swedish if you prefer).
+9. Add a link to the GitHub repository you are most proud off, tell us what it is and why you think this reflects your work the best. (Might not apply to IT Project leaders, perhaps you have a portfolio or similar you want to share instead?).
+10. Add your CV, and/or a link to your LinkedIn, and your email address.
+11. Add any other information or links you think could be of interest to us.
+12. Commit the file again once you're done.
+13. Create a Pull Request to this repository using your branch.
+14. We will review the pull request and contact you through your email or LinkedIn.
