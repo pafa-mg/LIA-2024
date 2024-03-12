@@ -17,8 +17,13 @@ Our first and most successful product is [OneGate](https://www.mobilityguard.com
 
 Every Swede is actually using our product without knowing it, for example when you login to do your tax declaration at [Skatteverket](https://skatteverket.se/), or if you register your pet cat at [Jordbruksverket](https://jordbruksverket.se/). Check the url and you will see `mg-local`, mg = MobilityGuard. 
 
-### <img alt="WizePass logo" src="https://github.com/pafa-mg/LIA-2024/assets/145539356/2fce0356-bef4-4cca-9d2f-a4db00109d83" width="200">
+<br>
 
+<p align="center">
+  <img alt="WizePass logo" src="https://github.com/pafa-mg/LIA-2024/assets/145539356/2fce0356-bef4-4cca-9d2f-a4db00109d83" width="300">
+</p>
+
+<br>
 
 Our latest product is [WizePass](https://wizepass.com/) which is an electronic identification solution, similar to BankId but much more powerful. 
 
