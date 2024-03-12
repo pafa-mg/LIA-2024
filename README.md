@@ -41,6 +41,15 @@ Currently open for all periods, no real limit. Though availability around summer
 ## What will our interns do?
 Both OneGate and WizePass use Java as their backend. OneGate, being over 20 years old, is as you might expect a so-called "monolith"-application using Java 11 LTS. WizePass uses the Quarkus framwork, maven and modern microservices architecture with Java 17 LTS.
 
-Interns will work mainly on WizePass. Backend interns on the multiple APIs, adding and refactoring endpoints and solutions as needed. Frontend interns will work on the Enrolment interface and Admin interface connected with WizePass. These interfaces uses Vite with React, and either Bootstrap or Tailwind CSS libraries. The enrolment interface is what our customers use to issue a user a new WizePass. The Admin interface is what we use to set up the microservices and all connected entities, and will later be used by our customers to admin their enrolment interfaces and other customer owned services.
+Interns will mainly work on WizePass. 
 
-OneGate also needs some love, backend interns will help with simple refactors in specific parts of the monolith as well as create APIs in preparation for refactoring the control center GUI connected to OneGate, now generated with PHP. This control center GUI is something our frontend interns will be able to help us recreate with React or similar frameworks. Making the GUI go from fancy 1990s PHP look to a more modern easier to use look.
+Backend interns on the multiple APIs, adding and refactoring endpoints and solutions as needed. 
+
+Frontend interns will work on the Enrolment interface and Admin interface connected with WizePass. These interfaces uses Vite with React, and either Bootstrap or Tailwind CSS libraries. The enrolment interface is what our customers use to issue a user a new WizePass. The Admin interface is what we use to set up the microservices and all connected entities, and will later be used by our customers to admin their enrolment interfaces and other customer owned services.
+
+OneGate also needs some love, backend interns will help with simple refactors in specific parts of the monolith as well as create APIs in preparation for refactoring the control center GUI connected to OneGate, now generated with PHP. This control center GUI is something our frontend interns will be able to help us recreate with React or similar frameworks. Making the GUI go from fancy 1990s-PHP-look to a more modern easier-to-use look.
+
+IT Project leader interns are a new addition for us, and our hope is that this intern will be able to help us with our application process for [DIGG](https://www.digg.se/) certification which is a major milestone towards solving the national exam digitalization problem. If this certification can be secured there is also a substantial cash bonus being promised by our CEO. We could also discuss doing scrum master work and similar in our WizePass and OneGate teams. We hope to discuss this with those interested during interviews to find a good solution.
+
+## What does work at MobilityGuard look like?
+Our office is in the old Partille train station buildings, all of which our CEO owns. This beautiful landmark (k-märkt) building has high ceilings, old wooden floors, and easy access to both train (being the train station) and bus connections from Gothenburg and the commuter train from Alingsås.
