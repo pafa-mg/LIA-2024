@@ -36,8 +36,8 @@ I am currently looking for internship from **week 34 to week 41, 2024.**
 
 ## My Resume
 
--I used **file.io** to upload my resume-
-[Resume@File.io](https://file.io/FVHW8VhdVG6Z)
+-I used **EasyUpload.io** to upload my resume-
+[Resume@easyUpload.io](https://easyupload.io/fs6k96)
 <br>
 
 Hope to here from you guys soon!
